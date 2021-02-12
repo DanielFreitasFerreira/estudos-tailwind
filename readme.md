@@ -61,7 +61,7 @@ module.exports = {
   plugins: [],
 }
 ```
-Se quizer saiber mais sobre como configurar o Tailwind acesse [documentação de configuração]('https://tailwindcss.com/docs/configuration')
+Se quizer saiber mais sobre como configurar o Tailwind acesse [documentação de configuração]("https://tailwindcss.com/docs/configuration")
 
 ## Incluir Tailwind em seu CSS
 
