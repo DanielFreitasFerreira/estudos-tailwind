@@ -5,7 +5,7 @@
 # Iniciando com Tailwind
 
 Acesse o site oficial do tailwind css, para mais informações: 
-[tailwindcss.com]('https://tailwindcss.com/')
+[tailwindcss.com](https://tailwindcss.com/)
 
 ## Por que Tailwind ?
 
@@ -35,7 +35,7 @@ O CSS do Tailwind requer Node.js 12.13.0 ou superior.
 
 Na documentação eles recomenda instalar o tailwind como um plugin PostCSS.
 
-Acesse o repositório Post CSS: [PostCSS / Autoprefixer]('https://github.com/postcss/autoprefixer')
+Acesse o repositório Post CSS: [PostCSS / Autoprefixer](https://github.com/postcss/autoprefixer)
 
 Como o Tailwind não adiciona prefixos de fornecedor automaticamente ao CSS que ele gera, instale o autoprefixer para lidar com isso para você.
 
@@ -61,7 +61,7 @@ module.exports = {
   plugins: [],
 }
 ```
-Se quizer saiber mais sobre como configurar o Tailwind acesse [documentação de configuração]("https://tailwindcss.com/docs/configuration")
+Se quizer saiber mais sobre como configurar o Tailwind acesse [documentação de configuração](https://tailwindcss.com/docs/configuration)
 
 ## Incluir Tailwind em seu CSS
 
@@ -81,15 +81,15 @@ Crie um arquivo CSS se você não tiver um, e usar a @tailwinddirectiva para inj
 
 Para começar criar um projeto com tailwind, têm que ter o node instalado
 
-[Clique para acessar o site do node]('https://nodejs.org/en/')
+[Clique para acessar o site do node](https://nodejs.org/en/)
 
 AS pelo site, recomendo que instale a versão LTS pelo NVM (Node Version Manager), pelo repositório oficial no github. Assim facilita a transição entre versões do node. E por padrão o node vêm com o npm instalado junto.
 
-[Clique para acessar o github do NVM]('https://github.com/nvm-sh/nvm')
+[Clique para acessar o github do NVM](https://github.com/nvm-sh/nvm)
 
 # Script para instalação e atualização
 
-Para instalar ou atualizar o nvm, você deve executal o [script de instalação]('https://github.com/nvm-sh/nvm/blob/v0.37.2/install.sh'). Você pode baixar e executar o script manualmente ou usar o seguinte comando CURL ou WGET.
+Para instalar ou atualizar o nvm, você deve executal o [script de instalação](https://github.com/nvm-sh/nvm/blob/v0.37.2/install.sh). Você pode baixar e executar o script manualmente ou usar o seguinte comando CURL ou WGET.
 
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
