@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://o.remove.bg/downloads/58da447f-0775-4ea9-b15c-52fe27e0e957/tailwind-css-logo-removebg-preview.png"/>
+  <img src="https://o.remove.bg/downloads/43c9ad47-f439-46ec-bf31-284ce6647763/images-removebg-preview.png"/>
 </div>
 
 # Iniciando com Tailwind
