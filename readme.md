@@ -1,7 +1,3 @@
-<div style="text-align: center;">
-  <img src="https://o.remove.bg/downloads/43c9ad47-f439-46ec-bf31-284ce6647763/images-removebg-preview.png"/>
-</div>
-
 # Iniciando com Tailwind
 
 Acesse o site oficial do tailwind css, para mais informações: 
